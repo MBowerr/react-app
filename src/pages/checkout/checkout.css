@@ -1,0 +1,55 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid rgb(4, 30, 66);
+    border-radius: 5px;
+}
+  
+h2 {
+font-size: 24px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+form {
+width: 100%;
+max-width: 400px;
+margin: 0 auto; 
+padding: 20px; 
+}
+
+label {
+font-weight: bold;
+margin-bottom: 5px;
+color: rgb(4, 30, 66);
+}
+
+input[type="text"],
+input[type="email"],
+select {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+
+button[type="submit"] {
+width: 100%;
+padding: 10px 20px;
+background-color: rgb(4, 30, 66);
+color: #fff;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.invoice {
+margin-top: 20px;
+padding: 20px;
+background-color: #f9f9f9;
+border-radius: 5px;
+}
+  
+  
